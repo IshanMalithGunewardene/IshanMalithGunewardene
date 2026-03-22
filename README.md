@@ -18,7 +18,7 @@
 </p>
 
 - 📫 How to reach me **ishanmalithgunewardene@gmail.com**
--   <a href="https://madhurajayashanka.com/" target="_blank">
+-   <a href="https://ishanmalith.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-madhurajayashanka.com-blueviolet?style=for-the-badge" alt="Portfolio" />
   </a>
 
