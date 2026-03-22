@@ -1,3 +1,13 @@
+<div align="center">
+  <a href="https://ishanmalith.dev/">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=800&color=4FACFE&center=true&vCenter=true&width=900&height=100&lines=Full-Stack+MERN+Developer;Next.js+%7C+TypeScript+Enthusiast;Building+Scalable+Web+Apps;Crafting+Clean+UI+%26+Robust+APIs;Let%27s+Ship+Something+Awesome"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Ishan Malith</h1>
 <h3 align="center">A passionate Fulls-stack developer from Sri-Lanka</h3>
 
