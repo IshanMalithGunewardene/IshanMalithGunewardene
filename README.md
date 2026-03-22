@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ishanmalithgunewardene@gmail.com**
 -   <a href="https://ishanmalith.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-madhurajayashanka.com-blueviolet?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-ishanmalith.dev-blueviolet?style=for-the-badge" alt="Portfolio" />
   </a>
 
 
