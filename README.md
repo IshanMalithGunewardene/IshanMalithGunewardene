@@ -13,12 +13,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanmalithgunewardene&label=Profile%20views&color=0e75b6&style=flat" alt="ishanmalithgunewardene" /> </p>
 
-
-- 📫 How to reach me **ishanmalithgunewardene@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+- 📫 How to reach me **ishanmalithgunewardene@gmail.com**
+-   <a href="https://madhurajayashanka.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-madhurajayashanka.com-blueviolet?style=for-the-badge" alt="Portfolio" />
+  </a>
+
+
 
 ### 🚀 Professional Summary
 
