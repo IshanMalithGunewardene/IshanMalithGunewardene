@@ -65,10 +65,10 @@ I have a passion for learning new technologies, especially **Next.js, TypeScript
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanMalithGunewardene&theme=react" />
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanMalithGunewardene&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 <div align="center">
+![](https://nirzak-streak-stats.vercel.app/?user=IshanMalithGunewardene&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanMalithGunewardene&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=IshanMalithGunewardene=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
