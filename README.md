@@ -57,19 +57,9 @@ I have a passion for learning new technologies, especially **Next.js, TypeScript
 
 ---
 
-
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshanMalithGunewardene&show_icons=true&theme=react&hide=contribs&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanMalithGunewardene&theme=react" />
-</div>
 
-
-
-
-
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 </div>
 
 ---
