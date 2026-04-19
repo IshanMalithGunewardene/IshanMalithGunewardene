@@ -62,9 +62,6 @@ I have a passion for learning new technologies, especially **Next.js, TypeScript
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanMalithGunewardene&theme=react" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanMalithGunewardene&theme=react" />
-</div>
 
 <div align="center">
   
